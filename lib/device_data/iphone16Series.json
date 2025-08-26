@@ -1,0 +1,383 @@
+[
+  {
+    "model": "iPhone 16",
+    "release_date": "2024-09-20",
+    "colors": ["Black", "White", "Pink", "Teal", "Ultramarine"],
+    "storage_options": ["128 GB", "256 GB", "512 GB"],
+    "storage_prices": {
+      "128 GB": "79,900",
+      "256 GB": "89,900",
+      "512 GB": "109,900"
+    },
+    "description": "The iPhone 16 features a 6.1-inch Super Retina XDR OLED display, powered by the Apple A18 chip, offering enhanced performance and efficiency. It introduces the Action and Camera Control buttons, and is built for Apple Intelligence.",
+    "specifications": {
+      "display": {
+        "size": "6.1 inches",
+        "type": "Super Retina XDR OLED",
+        "resolution": "2556 x 1179 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "1000 nits",
+          "peak": "2000 nits"
+        }
+      },
+      "processor": "Apple A18",
+      "memory": "6 GB LPDDR5",
+      "storage": ["128 GB", "256 GB", "512 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (fast-charge capable: up to 50% charge in 30–35 minutes with 20W adapter or higher)",
+          "wireless": ["MagSafe", "Qi2"]
+        }
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "48 MP",
+            "aperture": "f/1.6",
+            "lens": "26mm (wide)"
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.4",
+            "lens": "13mm (ultrawide)"
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.9",
+          "lens": "23mm (wide)"
+        }
+      },
+      "operating_system": "iOS 18",
+      "connectivity": ["2G", "3G", "4G LTE", "5G NR"],
+      "dimensions": {
+        "height": "147.6 mm",
+        "width": "71.6 mm",
+        "depth": "7.8 mm"
+      },
+      "weight": "170 g",
+      "sim": [
+        "Dual eSIM (US)",
+        "Dual nano-SIM (Hong Kong, Macau and mainland China)",
+        "nano-SIM and eSIM (elsewhere)"
+      ],
+      "additional_features": [
+        "Action button",
+        "Camera Control button",
+        "Apple Intelligence integration"
+      ]
+    }
+  },
+  {
+    "model": "iPhone 16 Plus",
+    "release_date": "2024-09-20",
+    "colors": ["Black", "White", "Pink", "Teal", "Ultramarine"],
+    "storage_options": ["128 GB", "256 GB", "512 GB"],
+    "storage_prices": {
+      "128 GB": "89,900",
+      "256 GB": "99,900",
+      "512 GB": "119,900"
+    },
+    "description": "The iPhone 16 Plus features a 6.7-inch Super Retina XDR OLED display, powered by the Apple A18 chip, offering enhanced performance and efficiency. It introduces the Action and Camera Control buttons, and is built for Apple Intelligence.",
+    "specifications": {
+      "display": {
+        "size": "6.7 inches",
+        "type": "Super Retina XDR OLED",
+        "resolution": "2778 x 1284 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "1000 nits",
+          "peak": "2000 nits"
+        }
+      },
+      "processor": "Apple A18",
+      "memory": "6 GB LPDDR5",
+      "storage": ["128 GB", "256 GB", "512 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (fast-charge capable: up to 50% charge in 30–35 minutes with 20W adapter or higher)",
+          "wireless": ["MagSafe", "Qi2"]
+        },
+        "video_playback": "Up to 27 hours"
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "48 MP",
+            "aperture": "f/1.6",
+            "lens": "26mm (wide)"
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.4",
+            "lens": "13mm (ultrawide)"
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.9",
+          "lens": "23mm (wide)"
+        }
+      },
+      "operating_system": "iOS 18",
+      "connectivity": ["2G", "3G", "4G LTE", "5G NR"],
+      "dimensions": {
+        "height": "160.9 mm",
+        "width": "77.8 mm",
+        "depth": "7.8 mm"
+      },
+      "weight": "199 g",
+      "sim": [
+        "Dual eSIM (US)",
+        "Dual nano-SIM (Hong Kong, Macau and mainland China)",
+        "nano-SIM and eSIM (elsewhere)"
+      ],
+      "additional_features": [
+        "Action button",
+        "Camera Control button",
+        "Apple Intelligence integration",
+        "IP68 water and dust resistance"
+      ]
+    }
+  },
+  {
+    "model": "iPhone 16 Pro",
+    "release_date": "2024-09-20",
+    "colors": [
+      "Black Titanium",
+      "White Titanium",
+      "Natural Titanium",
+      "Desert Titanium"
+    ],
+    "storage_options": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "storage_prices": {
+      "128 GB": "119900",
+      "256 GB": "129900",
+      "512 GB": "149900",
+      "1 TB": "169900"
+    },
+    "description": "The iPhone 16 Pro features a 6.3-inch Super Retina XDR OLED display with ProMotion technology, powered by the Apple A18 Pro chip, offering enhanced performance and efficiency. It introduces the Action and Camera Control buttons, and is built for Apple Intelligence.",
+    "specifications": {
+      "display": {
+        "size": "6.3 inches",
+        "type": "Super Retina XDR OLED",
+        "resolution": "2622 x 1206 pixels",
+        "refresh_rate": "Up to 120Hz (ProMotion)",
+        "brightness": {
+          "typical": "1000 nits",
+          "peak": "2000 nits"
+        },
+        "features": [
+          "Dynamic Island",
+          "Always-On Display",
+          "HDR",
+          "True Tone",
+          "Wide color (P3)",
+          "Haptic Touch"
+        ]
+      },
+      "processor": "Apple A18 Pro",
+      "memory": "8 GB LPDDR5",
+      "storage": ["128 GB", "256 GB", "512 GB", "1 TB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (fast-charge capable: up to 50% charge in approximately 30 minutes with 20W adapter or higher)",
+          "wireless": ["MagSafe", "Qi2"]
+        },
+        "video_playback": "Up to 29 hours"
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "48 MP",
+            "aperture": "f/1.78",
+            "lens": "24mm (wide)",
+            "features": [
+              "Second-generation sensor-shift optical image stabilization",
+              "100% Focus Pixels"
+            ]
+          },
+          {
+            "megapixels": "48 MP",
+            "aperture": "f/2.2",
+            "lens": "13mm (ultrawide)",
+            "features": ["120° field of view", "Macro photography"]
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.8",
+            "lens": "120mm (telephoto)",
+            "features": ["5x optical zoom", "Tetraprism design"]
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.9",
+          "lens": "23mm (wide)",
+          "features": ["Autofocus", "Retina Flash"]
+        },
+        "video": {
+          "resolution": "Up to 4K at 120 fps",
+          "features": [
+            "Dolby Vision HDR",
+            "ProRes video recording",
+            "Cinematic mode",
+            "Action mode"
+          ]
+        }
+      },
+      "operating_system": "iOS 18",
+      "connectivity": [
+        "2G",
+        "3G",
+        "4G LTE",
+        "5G NR",
+        "Wi-Fi 7",
+        "Bluetooth 5.3",
+        "Ultra Wideband (UWB)"
+      ],
+      "dimensions": {
+        "height": "149.6 mm",
+        "width": "71.5 mm",
+        "depth": "8.25 mm"
+      },
+      "weight": "199 g",
+      "sim": [
+        "Dual eSIM (US)",
+        "Dual nano-SIM (Hong Kong, Macau, and mainland China)",
+        "nano-SIM and eSIM (elsewhere)"
+      ],
+      "additional_features": [
+        "Action button",
+        "Camera Control button",
+        "Apple Intelligence integration",
+        "IP68 water and dust resistance",
+        "Face ID",
+        "Spatial audio with Dolby Atmos",
+        "Studio-quality microphones"
+      ]
+    }
+  },
+  {
+    "model": "iPhone 16 Pro Max",
+    "release_date": "2024-09-20",
+    "colors": [
+      "Black Titanium",
+      "White Titanium",
+      "Natural Titanium",
+      "Desert Titanium"
+    ],
+    "storage_options": ["256 GB", "512 GB", "1 TB"],
+    "storage_prices": {
+      "256 GB": "144900",
+      "512 GB": "164900",
+      "1 TB": "184900"
+    },
+    "description": "The iPhone 16 Pro Max features a 6.9-inch Super Retina XDR OLED display with ProMotion technology, powered by the Apple A18 Pro chip, offering enhanced performance and efficiency. It introduces the Action and Camera Control buttons, and is built for Apple Intelligence.",
+    "specifications": {
+      "display": {
+        "size": "6.9 inches",
+        "type": "Super Retina XDR OLED",
+        "resolution": "2868 x 1320 pixels",
+        "refresh_rate": "Up to 120Hz (ProMotion)",
+        "brightness": {
+          "typical": "1000 nits",
+          "peak": "2000 nits"
+        },
+        "features": [
+          "Dynamic Island",
+          "Always-On Display",
+          "HDR",
+          "True Tone",
+          "Wide color (P3)",
+          "Haptic Touch"
+        ]
+      },
+      "processor": "Apple A18 Pro",
+      "memory": "8 GB LPDDR5",
+      "storage": ["256 GB", "512 GB", "1 TB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (fast-charge capable: up to 50% charge in approximately 30 minutes with 20W adapter or higher)",
+          "wireless": ["MagSafe", "Qi2"]
+        },
+        "video_playback": "Up to 33 hours"
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "48 MP",
+            "aperture": "f/1.78",
+            "lens": "24mm (wide)",
+            "features": [
+              "Second-generation sensor-shift optical image stabilization",
+              "100% Focus Pixels"
+            ]
+          },
+          {
+            "megapixels": "48 MP",
+            "aperture": "f/2.2",
+            "lens": "13mm (ultrawide)",
+            "features": ["120° field of view", "Macro photography"]
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.8",
+            "lens": "120mm (telephoto)",
+            "features": ["5x optical zoom", "Tetraprism design"]
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.9",
+          "lens": "23mm (wide)",
+          "features": ["Autofocus", "Retina Flash"]
+        },
+        "video": {
+          "resolution": "Up to 4K at 120 fps",
+          "features": [
+            "Dolby Vision HDR",
+            "ProRes video recording",
+            "Cinematic mode",
+            "Action mode"
+          ]
+        }
+      },
+      "operating_system": "iOS 18",
+      "connectivity": [
+        "2G",
+        "3G",
+        "4G LTE",
+        "5G NR",
+        "Wi-Fi 7",
+        "Bluetooth 5.3",
+        "Ultra Wideband (UWB)"
+      ],
+      "dimensions": {
+        "height": "163.0 mm",
+        "width": "77.8 mm",
+        "depth": "8.25 mm"
+      },
+      "weight": "227 g",
+      "sim": [
+        "Dual eSIM (US)",
+        "Dual nano-SIM (Hong Kong, Macau, and mainland China)",
+        "nano-SIM and eSIM (elsewhere)"
+      ],
+      "additional_features": [
+        "Action button",
+        "Camera Control button",
+        "Apple Intelligence integration",
+        "IP68 water and dust resistance",
+        "Face ID",
+        "Spatial audio with Dolby Atmos",
+        "Studio-quality microphones"
+      ]
+    }
+  }
+]

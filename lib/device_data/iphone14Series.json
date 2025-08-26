@@ -1,0 +1,410 @@
+[
+  {
+    "model": "iPhone 14",
+    "release_date": "2022-09-16",
+    "colors": ["Blue", "Purple", "Midnight", "Starlight", "Red"],
+    "storage_options": ["128 GB", "256 GB", "512 GB"],
+    "storage_prices": {
+      "128 GB": "48750",
+      "256 GB": "55500",
+      "512 GB": "58500"
+    },
+    "description": "The iPhone 14 features a 6.1-inch Super Retina XDR OLED display, powered by the Apple A15 Bionic chip, offering enhanced performance and efficiency. It introduces improved camera capabilities and safety features like Emergency SOS via satellite.",
+    "specifications": {
+      "display": {
+        "size": "6.1 inches",
+        "type": "Super Retina XDR OLED",
+        "resolution": "2532 x 1170 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "800 nits",
+          "peak": "1200 nits"
+        },
+        "features": ["HDR", "True Tone", "Wide color (P3)", "Haptic Touch"]
+      },
+      "processor": "Apple A15 Bionic",
+      "memory": "6 GB LPDDR4X",
+      "storage": ["128 GB", "256 GB", "512 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "Lightning (fast-charge capable: up to 50% charge in approximately 30 minutes with 20W adapter or higher)",
+          "wireless": ["MagSafe", "Qi"]
+        },
+        "video_playback": "Up to 20 hours"
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/1.5",
+            "lens": "26mm (wide)",
+            "features": [
+              "Sensor-shift optical image stabilization",
+              "Dual pixel PDAF"
+            ]
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.4",
+            "lens": "13mm (ultrawide)",
+            "features": ["120° field of view"]
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.9",
+          "lens": "23mm (wide)",
+          "features": ["Autofocus", "Retina Flash"]
+        },
+        "video": {
+          "resolution": "Up to 4K at 60 fps",
+          "features": ["Dolby Vision HDR", "Cinematic mode", "Action mode"]
+        }
+      },
+      "operating_system": "iOS 16",
+      "connectivity": [
+        "2G",
+        "3G",
+        "4G LTE",
+        "5G NR",
+        "Wi-Fi 6",
+        "Bluetooth 5.3",
+        "Ultra Wideband (UWB)"
+      ],
+      "dimensions": {
+        "height": "146.7 mm",
+        "width": "71.5 mm",
+        "depth": "7.8 mm"
+      },
+      "weight": "172 g",
+      "sim": [
+        "Dual eSIM (US)",
+        "Dual nano-SIM (Hong Kong, Macau, and mainland China)",
+        "nano-SIM and eSIM (elsewhere)"
+      ],
+      "additional_features": [
+        "Face ID",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "IP68 water and dust resistance"
+      ]
+    }
+  },
+  {
+    "model": "iPhone 14 Plus",
+    "release_date": "2022-10-07",
+    "colors": ["Blue", "Purple", "Midnight", "Starlight", "Red", "Yellow"],
+    "storage_options": ["128 GB", "256 GB", "512 GB"],
+    "storage_prices": {
+      "128 GB": "69900",
+      "256 GB": "79900",
+      "512 GB": "89900"
+    },
+    "description": "The iPhone 14 Plus features a 6.7-inch Super Retina XDR OLED display, powered by the Apple A15 Bionic chip, offering enhanced performance and efficiency. It introduces improved camera capabilities and safety features like Emergency SOS via satellite.",
+    "specifications": {
+      "display": {
+        "size": "6.7 inches",
+        "type": "Super Retina XDR OLED",
+        "resolution": "2778 x 1284 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "800 nits",
+          "peak": "1200 nits"
+        },
+        "features": ["HDR", "True Tone", "Wide color (P3)", "Haptic Touch"]
+      },
+      "processor": "Apple A15 Bionic",
+      "memory": "6 GB LPDDR4X",
+      "storage": ["128 GB", "256 GB", "512 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "capacity": "4325 mAh",
+        "charging": {
+          "wired": "Lightning (fast-charge capable: up to 50% charge in approximately 30 minutes with 20W adapter or higher)",
+          "wireless": ["MagSafe", "Qi"]
+        },
+        "video_playback": "Up to 26 hours"
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/1.5",
+            "lens": "26mm (wide)",
+            "features": [
+              "Sensor-shift optical image stabilization",
+              "Dual pixel PDAF"
+            ]
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.4",
+            "lens": "13mm (ultrawide)",
+            "features": ["120° field of view"]
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.9",
+          "lens": "23mm (wide)",
+          "features": ["Autofocus", "Retina Flash"]
+        },
+        "video": {
+          "resolution": "Up to 4K at 60 fps",
+          "features": ["Dolby Vision HDR", "Cinematic mode", "Action mode"]
+        }
+      },
+      "operating_system": "iOS 16",
+      "connectivity": [
+        "2G",
+        "3G",
+        "4G LTE",
+        "5G NR",
+        "Wi-Fi 6",
+        "Bluetooth 5.3",
+        "Ultra Wideband (UWB)"
+      ],
+      "dimensions": {
+        "height": "160.8 mm",
+        "width": "78.1 mm",
+        "depth": "7.8 mm"
+      },
+      "weight": "203 g",
+      "sim": [
+        "Dual eSIM (US)",
+        "Dual nano-SIM (Hong Kong, Macau, and mainland China)",
+        "nano-SIM and eSIM (elsewhere)"
+      ],
+      "additional_features": [
+        "Face ID",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "IP68 water and dust resistance"
+      ]
+    }
+  },
+  {
+    "model": "iPhone 14 Pro",
+    "release_date": "2022-09-16",
+    "colors": ["Deep Purple", "Gold", "Silver", "Space Black"],
+    "storage_options": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "storage_prices": {
+      "128 GB": "119900",
+      "256 GB": "129900",
+      "512 GB": "149900",
+      "1 TB": "169900"
+    },
+    "description": "The iPhone 14 Pro features a 6.1-inch Super Retina XDR OLED display with ProMotion technology, powered by the Apple A16 Bionic chip, offering enhanced performance and efficiency. It introduces the Dynamic Island, Always-On display, and a 48MP main camera.",
+    "specifications": {
+      "display": {
+        "size": "6.1 inches",
+        "type": "Super Retina XDR OLED",
+        "resolution": "2556 x 1179 pixels",
+        "refresh_rate": "Up to 120Hz (ProMotion)",
+        "brightness": {
+          "typical": "1000 nits",
+          "peak": "2000 nits"
+        },
+        "features": [
+          "Dynamic Island",
+          "Always-On Display",
+          "HDR",
+          "True Tone",
+          "Wide color (P3)",
+          "Haptic Touch"
+        ]
+      },
+      "processor": "Apple A16 Bionic",
+      "memory": "6 GB LPDDR5",
+      "storage": ["128 GB", "256 GB", "512 GB", "1 TB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "Lightning (fast-charge capable: up to 50% charge in approximately 30 minutes with 20W adapter or higher)",
+          "wireless": ["MagSafe", "Qi"]
+        },
+        "video_playback": "Up to 23 hours"
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "48 MP",
+            "aperture": "f/1.78",
+            "lens": "24mm (wide)",
+            "features": [
+              "Sensor-shift optical image stabilization",
+              "Dual pixel PDAF"
+            ]
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.2",
+            "lens": "13mm (ultrawide)",
+            "features": ["120° field of view"]
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.8",
+            "lens": "77mm (telephoto)",
+            "features": ["3x optical zoom", "Optical image stabilization"]
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.9",
+          "lens": "23mm (wide)",
+          "features": ["Autofocus", "Retina Flash"]
+        },
+        "video": {
+          "resolution": "Up to 4K at 60 fps",
+          "features": [
+            "ProRes video recording",
+            "Cinematic mode",
+            "Action mode",
+            "Dolby Vision HDR"
+          ]
+        }
+      },
+      "operating_system": "iOS 16",
+      "connectivity": [
+        "2G",
+        "3G",
+        "4G LTE",
+        "5G NR",
+        "Wi-Fi 6",
+        "Bluetooth 5.3",
+        "Ultra Wideband (UWB)"
+      ],
+      "dimensions": {
+        "height": "147.5 mm",
+        "width": "71.5 mm",
+        "depth": "7.85 mm"
+      },
+      "weight": "206 g",
+      "sim": [
+        "Dual eSIM (US)",
+        "Dual nano-SIM (Hong Kong, Macau, and mainland China)",
+        "nano-SIM and eSIM (elsewhere)"
+      ],
+      "additional_features": [
+        "Face ID",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "IP68 water and dust resistance"
+      ]
+    }
+  },
+  {
+    "model": "iPhone 14 Pro Max",
+    "release_date": "2022-09-16",
+    "colors": ["Deep Purple", "Gold", "Silver", "Space Black"],
+    "storage_options": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "storage_prices": {
+      "128 GB": "139900",
+      "256 GB": "149900",
+      "512 GB": "169900",
+      "1 TB": "189900"
+    },
+    "description": "The iPhone 14 Pro Max features a 6.7-inch Super Retina XDR OLED display with ProMotion technology, powered by the Apple A16 Bionic chip, offering enhanced performance and efficiency. It introduces the Dynamic Island and Always-On display, and is built for advanced photography and videography.",
+    "specifications": {
+      "display": {
+        "size": "6.7 inches",
+        "type": "Super Retina XDR OLED",
+        "resolution": "2796 x 1290 pixels",
+        "refresh_rate": "Up to 120Hz (ProMotion)",
+        "brightness": {
+          "typical": "1000 nits",
+          "peak": "2000 nits"
+        },
+        "features": [
+          "Dynamic Island",
+          "Always-On Display",
+          "HDR",
+          "True Tone",
+          "Wide color (P3)",
+          "Haptic Touch"
+        ]
+      },
+      "processor": "Apple A16 Bionic",
+      "memory": "6 GB LPDDR5",
+      "storage": ["128 GB", "256 GB", "512 GB", "1 TB"],
+      "battery": {
+        "type": "Li-ion",
+        "capacity": "4323 mAh",
+        "charging": {
+          "wired": "Lightning (fast-charge capable: up to 50% charge in approximately 30 minutes with 20W adapter or higher)",
+          "wireless": ["MagSafe", "Qi"]
+        },
+        "video_playback": "Up to 29 hours"
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "48 MP",
+            "aperture": "f/1.78",
+            "lens": "24mm (wide)",
+            "features": [
+              "Sensor-shift optical image stabilization",
+              "Dual pixel PDAF"
+            ]
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.8",
+            "lens": "77mm (telephoto)",
+            "features": ["3x optical zoom", "Optical image stabilization"]
+          },
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/2.2",
+            "lens": "13mm (ultrawide)",
+            "features": ["120° field of view"]
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.9",
+          "lens": "23mm (wide)",
+          "features": ["Autofocus", "Retina Flash"]
+        },
+        "video": {
+          "resolution": "Up to 4K at 60 fps",
+          "features": [
+            "Dolby Vision HDR",
+            "ProRes video recording",
+            "Cinematic mode",
+            "Action mode"
+          ]
+        }
+      },
+      "operating_system": "iOS 16",
+      "connectivity": [
+        "2G",
+        "3G",
+        "4G LTE",
+        "5G NR",
+        "Wi-Fi 6",
+        "Bluetooth 5.3",
+        "Ultra Wideband (UWB)"
+      ],
+      "dimensions": {
+        "height": "160.7 mm",
+        "width": "77.6 mm",
+        "depth": "7.85 mm"
+      },
+      "weight": "240 g",
+      "sim": [
+        "Dual eSIM (US)",
+        "Dual nano-SIM (Hong Kong, Macau, and mainland China)",
+        "nano-SIM and eSIM (elsewhere)"
+      ],
+      "additional_features": [
+        "Face ID",
+        "Emergency SOS via satellite",
+        "Crash Detection",
+        "IP68 water and dust resistance"
+      ]
+    }
+  }
+]

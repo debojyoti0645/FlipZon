@@ -1,0 +1,516 @@
+[
+  {
+    "model": "MacBook Air (M4, 2025)",
+    "release_date": "2025-03-12",
+    "colors": ["Midnight", "Starlight", "Silver", "Space Grey", "Sky Blue"],
+    "variants": [
+      {
+        "size": "13.6-inch",
+        "storage": "256GB",
+        "memory": "8GB",
+        "gpu": "8-core",
+        "base_price_inr": 99900,
+        "description": "The 13.6-inch MacBook Air with M4 chip offers a sleek design, powerful performance, and up to 18 hours of battery life, making it ideal for everyday tasks and creative workflows.",
+        "specifications": {
+          "display": {
+            "type": "Liquid Retina",
+            "resolution": "2560 x 1664",
+            "brightness": "500 nits",
+            "color_support": "1 billion colors",
+            "wide_color": "P3",
+            "true_tone": true
+          },
+          "chip": {
+            "cpu": "10-core (4 performance cores + 6 efficiency cores)",
+            "gpu": "8-core or configurable to 10-core",
+            "neural_engine": "16-core",
+            "memory_bandwidth": "120GB/s"
+          },
+          "memory_options": ["8GB", "16GB", "24GB", "32GB"],
+          "storage_options": ["256GB", "512GB", "1TB", "2TB"],
+          "battery": {
+            "capacity": "52.6-watt‑hour",
+            "life": {
+              "wireless_web": "Up to 15 hours",
+              "video_playback": "Up to 18 hours"
+            },
+            "adapter": "30W USB-C Power Adapter (included with 8-core GPU) or 35W Dual USB-C Port Power Adapter (included with 10-core GPU and 512GB storage)"
+          },
+          "ports": [
+            "MagSafe 3 charging port",
+            "Two Thunderbolt / USB 4 ports",
+            "3.5 mm headphone jack"
+          ],
+          "camera": "12MP Ultra Wide front camera with Center Stage",
+          "audio": {
+            "speakers": "Four-speaker sound system with Spatial Audio",
+            "microphones": "Three-mic array with directional beamforming"
+          },
+          "keyboard": "Backlit Magic Keyboard with Touch ID",
+          "trackpad": "Force Touch trackpad",
+          "dimensions": {
+            "height": "1.13 cm",
+            "width": "30.41 cm",
+            "depth": "21.5 cm"
+          },
+          "weight": "1.24 kg",
+          "operating_system": "macOS Sequoia"
+        }
+      },
+      {
+        "size": "15.3-inch",
+        "storage": "256GB",
+        "memory": "8GB",
+        "gpu": "10-core",
+        "base_price_inr": 124900,
+        "description": "The 15.3-inch MacBook Air with M4 chip combines a larger display with powerful performance and up to 18 hours of battery life, offering an immersive experience for professionals and creatives.",
+        "specifications": {
+          "display": {
+            "type": "Liquid Retina",
+            "resolution": "2880 x 1864",
+            "brightness": "500 nits",
+            "color_support": "1 billion colors",
+            "wide_color": "P3",
+            "true_tone": true
+          },
+          "chip": {
+            "cpu": "10-core (4 performance cores + 6 efficiency cores)",
+            "gpu": "10-core",
+            "neural_engine": "16-core",
+            "memory_bandwidth": "120GB/s"
+          },
+          "memory_options": ["8GB", "16GB", "24GB", "32GB"],
+          "storage_options": ["256GB", "512GB", "1TB", "2TB"],
+          "battery": {
+            "capacity": "66.5-watt‑hour",
+            "life": {
+              "wireless_web": "Up to 15 hours",
+              "video_playback": "Up to 18 hours"
+            },
+            "adapter": "35W Dual USB-C Port Power Adapter"
+          },
+          "ports": [
+            "MagSafe 3 charging port",
+            "Two Thunderbolt / USB 4 ports",
+            "3.5 mm headphone jack"
+          ],
+          "camera": "12MP Ultra Wide front camera with Center Stage",
+          "audio": {
+            "speakers": "Six-speaker sound system with force-cancelling woofers and Spatial Audio",
+            "microphones": "Three-mic array with directional beamforming"
+          },
+          "keyboard": "Backlit Magic Keyboard with Touch ID",
+          "trackpad": "Force Touch trackpad",
+          "dimensions": {
+            "height": "1.15 cm",
+            "width": "34.04 cm",
+            "depth": "23.76 cm"
+          },
+          "weight": "1.51 kg",
+          "operating_system": "macOS Sequoia"
+        }
+      }
+    ]
+  },
+  {
+    "model": "MacBook Air (M3, 2024)",
+    "release_date": "2024-03-04",
+    "colors": ["Midnight", "Starlight", "Silver", "Space Grey"],
+    "variants": [
+      {
+        "size": "13.6-inch",
+        "storage": "256GB",
+        "memory": "8GB",
+        "gpu": "8-core",
+        "base_price_inr": 114900,
+        "description": "The 13.6-inch MacBook Air with M3 chip offers a sleek design, powerful performance, and up to 18 hours of battery life, making it ideal for everyday tasks and creative workflows.",
+        "specifications": {
+          "display": {
+            "type": "Liquid Retina",
+            "resolution": "2560 x 1664",
+            "brightness": "500 nits",
+            "color_support": "1 billion colors",
+            "wide_color": "P3",
+            "true_tone": true
+          },
+          "chip": {
+            "cpu": "8-core (4 performance cores + 4 efficiency cores)",
+            "gpu": "8-core or configurable to 10-core",
+            "neural_engine": "16-core",
+            "memory_bandwidth": "100GB/s"
+          },
+          "memory_options": ["8GB", "16GB", "24GB"],
+          "storage_options": ["256GB", "512GB", "1TB", "2TB"],
+          "battery": {
+            "capacity": "52.6-watt‑hour",
+            "life": {
+              "wireless_web": "Up to 15 hours",
+              "video_playback": "Up to 18 hours"
+            },
+            "adapter": "30W USB-C Power Adapter (included with 8-core GPU) or 35W Dual USB-C Port Power Adapter (included with 10-core GPU and 512GB storage)"
+          },
+          "ports": [
+            "MagSafe 3 charging port",
+            "Two Thunderbolt / USB 4 ports",
+            "3.5 mm headphone jack"
+          ],
+          "camera": "1080p FaceTime HD camera",
+          "audio": {
+            "speakers": "Four-speaker sound system with Spatial Audio",
+            "microphones": "Three-mic array with directional beamforming"
+          },
+          "keyboard": "Backlit Magic Keyboard with Touch ID",
+          "trackpad": "Force Touch trackpad",
+          "dimensions": {
+            "height": "1.13 cm",
+            "width": "30.41 cm",
+            "depth": "21.5 cm"
+          },
+          "weight": "1.24 kg",
+          "operating_system": "macOS Sequoia"
+        }
+      },
+      {
+        "size": "15.3-inch",
+        "storage": "256GB",
+        "memory": "8GB",
+        "gpu": "10-core",
+        "base_price_inr": 134900,
+        "description": "The 15.3-inch MacBook Air with M3 chip combines a larger display with powerful performance and up to 18 hours of battery life, offering an immersive experience for professionals and creatives.",
+        "specifications": {
+          "display": {
+            "type": "Liquid Retina",
+            "resolution": "2880 x 1864",
+            "brightness": "500 nits",
+            "color_support": "1 billion colors",
+            "wide_color": "P3",
+            "true_tone": true
+          },
+          "chip": {
+            "cpu": "8-core (4 performance cores + 4 efficiency cores)",
+            "gpu": "10-core",
+            "neural_engine": "16-core",
+            "memory_bandwidth": "100GB/s"
+          },
+          "memory_options": ["8GB", "16GB", "24GB"],
+          "storage_options": ["256GB", "512GB", "1TB", "2TB"],
+          "battery": {
+            "capacity": "66.5-watt‑hour",
+            "life": {
+              "wireless_web": "Up to 15 hours",
+              "video_playback": "Up to 18 hours"
+            },
+            "adapter": "35W Dual USB-C Port Power Adapter"
+          },
+          "ports": [
+            "MagSafe 3 charging port",
+            "Two Thunderbolt / USB 4 ports",
+            "3.5 mm headphone jack"
+          ],
+          "camera": "1080p FaceTime HD camera",
+          "audio": {
+            "speakers": "Six-speaker sound system with force-cancelling woofers and Spatial Audio",
+            "microphones": "Three-mic array with directional beamforming"
+          },
+          "keyboard": "Backlit Magic Keyboard with Touch ID",
+          "trackpad": "Force Touch trackpad",
+          "dimensions": {
+            "height": "1.15 cm",
+            "width": "34.04 cm",
+            "depth": "23.76 cm"
+          },
+          "weight": "1.51 kg",
+          "operating_system": "macOS Sequoia"
+        }
+      }
+    ]
+  },
+  {
+    "model": "MacBook Air (M2)",
+    "release_date": "2022-07-15",
+    "colors": ["Midnight", "Starlight", "Silver", "Space Grey"],
+    "variants": [
+      {
+        "size": "13.6-inch",
+        "storage": "256GB",
+        "memory": "8GB",
+        "gpu": "8-core",
+        "base_price_inr": 119900,
+        "description": "The 13.6-inch MacBook Air with M2 chip offers a sleek design, powerful performance, and up to 18 hours of battery life, making it ideal for everyday tasks and creative workflows.",
+        "specifications": {
+          "display": {
+            "type": "Liquid Retina",
+            "resolution": "2560 x 1664",
+            "brightness": "500 nits",
+            "color_support": "1 billion colors",
+            "wide_color": "P3",
+            "true_tone": true
+          },
+          "chip": {
+            "cpu": "8-core (4 performance cores + 4 efficiency cores)",
+            "gpu": "8-core or configurable to 10-core",
+            "neural_engine": "16-core",
+            "memory_bandwidth": "100GB/s"
+          },
+          "memory_options": ["8GB", "16GB", "24GB"],
+          "storage_options": ["256GB", "512GB", "1TB", "2TB"],
+          "battery": {
+            "capacity": "52.6-watt‑hour",
+            "life": {
+              "wireless_web": "Up to 15 hours",
+              "video_playback": "Up to 18 hours"
+            },
+            "adapter": "30W USB-C Power Adapter (included with 8-core GPU) or 35W Dual USB-C Port Power Adapter (included with 10-core GPU and 512GB storage)"
+          },
+          "ports": [
+            "MagSafe 3 charging port",
+            "Two Thunderbolt / USB 4 ports",
+            "3.5 mm headphone jack"
+          ],
+          "camera": "1080p FaceTime HD camera",
+          "audio": {
+            "speakers": "Four-speaker sound system with Spatial Audio",
+            "microphones": "Three-mic array with directional beamforming"
+          },
+          "keyboard": "Backlit Magic Keyboard with Touch ID",
+          "trackpad": "Force Touch trackpad",
+          "dimensions": {
+            "height": "1.13 cm",
+            "width": "30.41 cm",
+            "depth": "21.5 cm"
+          },
+          "weight": "1.24 kg",
+          "operating_system": "macOS"
+        }
+      },
+      {
+        "size": "15.3-inch",
+        "storage": "256GB",
+        "memory": "8GB",
+        "gpu": "10-core",
+        "base_price_inr": 134900,
+        "description": "The 15.3-inch MacBook Air with M2 chip combines a larger display with powerful performance and up to 18 hours of battery life, offering an immersive experience for professionals and creatives.",
+        "specifications": {
+          "display": {
+            "type": "Liquid Retina",
+            "resolution": "2880 x 1864",
+            "brightness": "500 nits",
+            "color_support": "1 billion colors",
+            "wide_color": "P3",
+            "true_tone": true
+          },
+          "chip": {
+            "cpu": "8-core (4 performance cores + 4 efficiency cores)",
+            "gpu": "10-core",
+            "neural_engine": "16-core",
+            "memory_bandwidth": "100GB/s"
+          },
+          "memory_options": ["8GB", "16GB", "24GB"],
+          "storage_options": ["256GB", "512GB", "1TB", "2TB"],
+          "battery": {
+            "capacity": "66.5-watt‑hour",
+            "life": {
+              "wireless_web": "Up to 15 hours",
+              "video_playback": "Up to 18 hours"
+            },
+            "adapter": "35W Dual USB-C Port Compact Power Adapter"
+          },
+          "ports": [
+            "MagSafe 3 charging port",
+            "Two Thunderbolt / USB 4 ports",
+            "3.5 mm headphone jack"
+          ],
+          "camera": "1080p FaceTime HD camera",
+          "audio": {
+            "speakers": "Six-speaker sound system with force-cancelling woofers and Spatial Audio",
+            "microphones": "Three-mic array with directional beamforming"
+          },
+          "keyboard": "Backlit Magic Keyboard with Touch ID",
+          "trackpad": "Force Touch trackpad",
+          "dimensions": {
+            "height": "1.15 cm",
+            "width": "34.04 cm",
+            "depth": "23.76 cm"
+          },
+          "weight": "1.51 kg",
+          "operating_system": "macOS"
+        }
+      }
+    ]
+  },
+  {
+    "model": "MacBook Air (13-inch, M1, 2020)",
+    "release_date": "2020-11-17",
+    "colors": ["Gold", "Silver", "Space Grey"],
+    "variants": [
+      {
+        "size": "13.3-inch",
+        "storage": "256GB",
+        "memory": "8GB",
+        "gpu": "7-core",
+        "base_price_inr": 84900,
+        "description": "The 13-inch MacBook Air with M1 chip delivers exceptional performance and efficiency. Featuring a fanless design, it offers silent operation, up to 18 hours of battery life, and a vibrant Retina display, making it ideal for both professional and personal use.",
+        "specifications": {
+          "display": {
+            "size": "13.3 inches",
+            "type": "Retina LED-backlit IPS",
+            "resolution": "2560 x 1600 pixels",
+            "brightness": "400 nits",
+            "color": "Wide Color (P3)",
+            "true_tone": true
+          },
+          "processor": {
+            "chip": "Apple M1",
+            "cpu": "8-core (4 performance cores + 4 efficiency cores)",
+            "gpu": "7-core or 8-core GPU",
+            "neural_engine": "16-core"
+          },
+          "memory": {
+            "type": "Unified Memory",
+            "options": ["8 GB", "16 GB"]
+          },
+          "storage": {
+            "type": "SSD",
+            "options": ["256 GB", "512 GB", "1 TB", "2 TB"]
+          },
+          "battery": {
+            "type": "49.9‑watt‑hour lithium‑polymer",
+            "life": {
+              "wireless_web": "Up to 15 hours",
+              "video_playback": "Up to 18 hours"
+            },
+            "adapter": "30W USB‑C Power Adapter"
+          },
+          "ports": ["Two Thunderbolt / USB 4 ports", "3.5 mm headphone jack"],
+          "wireless": {
+            "wifi": "Wi‑Fi 6 (802.11ax)",
+            "bluetooth": "Bluetooth 5.0"
+          },
+          "keyboard": {
+            "type": "Backlit Magic Keyboard",
+            "features": [
+              "78 (U.S.) or 79 (ISO) keys",
+              "12 function keys",
+              "4 arrow keys in inverted-T arrangement",
+              "Ambient light sensor"
+            ]
+          },
+          "trackpad": {
+            "type": "Force Touch trackpad",
+            "features": [
+              "Precise cursor control",
+              "Pressure-sensing capabilities",
+              "Force clicks",
+              "Accelerators",
+              "Pressure-sensitive drawing",
+              "Multi-Touch gestures"
+            ]
+          },
+          "security": {
+            "features": ["Touch ID", "Secure Enclave"]
+          },
+          "camera": {
+            "type": "720p FaceTime HD camera",
+            "features": ["Advanced image signal processor with computational video"]
+          },
+          "audio": {
+            "speakers": "Stereo speakers with wide stereo sound",
+            "microphones": "Three-mic array with directional beamforming",
+            "dolby_atmos": true
+          },
+          "dimensions": {
+            "height": "0.41–1.61 cm",
+            "width": "30.41 cm",
+            "depth": "21.24 cm"
+          },
+          "weight": "1.29 kg",
+          "operating_system": "macOS Big Sur (upgradable to latest macOS versions)"
+        }
+      },
+      {
+        "size": "13.3-inch",
+        "storage": "512GB",
+        "memory": "8GB",
+        "gpu": "8-core",
+        "base_price_inr": 102900,
+        "description": "The 13-inch MacBook Air with M1 chip delivers exceptional performance and efficiency. Featuring a fanless design, it offers silent operation, up to 18 hours of battery life, and a vibrant Retina display, making it ideal for both professional and personal use.",
+        "specifications": {
+          "display": {
+            "size": "13.3 inches",
+            "type": "Retina LED-backlit IPS",
+            "resolution": "2560 x 1600 pixels",
+            "brightness": "400 nits",
+            "color": "Wide Color (P3)",
+            "true_tone": true
+          },
+          "processor": {
+            "chip": "Apple M1",
+            "cpu": "8-core (4 performance cores + 4 efficiency cores)",
+            "gpu": "7-core or 8-core GPU",
+            "neural_engine": "16-core"
+          },
+          "memory": {
+            "type": "Unified Memory",
+            "options": ["8 GB", "16 GB"]
+          },
+          "storage": {
+            "type": "SSD",
+            "options": ["256 GB", "512 GB", "1 TB", "2 TB"]
+          },
+          "battery": {
+            "type": "49.9‑watt‑hour lithium‑polymer",
+            "life": {
+              "wireless_web": "Up to 15 hours",
+              "video_playback": "Up to 18 hours"
+            },
+            "adapter": "30W USB‑C Power Adapter"
+          },
+          "ports": ["Two Thunderbolt / USB 4 ports", "3.5 mm headphone jack"],
+          "wireless": {
+            "wifi": "Wi‑Fi 6 (802.11ax)",
+            "bluetooth": "Bluetooth 5.0"
+          },
+          "keyboard": {
+            "type": "Backlit Magic Keyboard",
+            "features": [
+              "78 (U.S.) or 79 (ISO) keys",
+              "12 function keys",
+              "4 arrow keys in inverted-T arrangement",
+              "Ambient light sensor"
+            ]
+          },
+          "trackpad": {
+            "type": "Force Touch trackpad",
+            "features": [
+              "Precise cursor control",
+              "Pressure-sensing capabilities",
+              "Force clicks",
+              "Accelerators",
+              "Pressure-sensitive drawing",
+              "Multi-Touch gestures"
+            ]
+          },
+          "security": {
+            "features": ["Touch ID", "Secure Enclave"]
+          },
+          "camera": {
+            "type": "720p FaceTime HD camera",
+            "features": ["Advanced image signal processor with computational video"]
+          },
+          "audio": {
+            "speakers": "Stereo speakers with wide stereo sound",
+            "microphones": "Three-mic array with directional beamforming",
+            "dolby_atmos": true
+          },
+          "dimensions": {
+            "height": "0.41–1.61 cm",
+            "width": "30.41 cm",
+            "depth": "21.24 cm"
+          },
+          "weight": "1.29 kg",
+          "operating_system": "macOS Big Sur (upgradable to latest macOS versions)"
+        }
+      }
+    ]
+  }
+]

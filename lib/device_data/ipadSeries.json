@@ -1,0 +1,733 @@
+[
+  {
+    "model": "iPad (11th generation)",
+    "release_date": "2024-10-XX",
+    "colors": ["Silver", "Space Gray"],
+    "storage_options": ["64 GB", "256 GB"],
+    "storage_prices": {
+      "64 GB": "39,900",
+      "256 GB": "54,900"
+    },
+    "description": "The iPad (11th generation) features a 10.9-inch Liquid Retina display, powered by the A14 Bionic chip, offering a powerful yet affordable tablet experience ideal for productivity, creativity, and entertainment.",
+    "specifications": {
+      "display": {
+        "size": "10.9 inches",
+        "type": "Liquid Retina IPS LCD",
+        "resolution": "2360 x 1640 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "500 nits",
+          "peak": "500 nits"
+        }
+      },
+      "processor": "Apple A14 Bionic",
+      "memory": "4 GB LPDDR4X",
+      "storage": ["64 GB", "256 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (up to 20W fast charging)"
+        }
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/1.8",
+            "lens": "wide"
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "ultrawide (122° FoV)"
+        }
+      },
+      "operating_system": "iPadOS 17",
+      "connectivity": ["2G", "3G", "4G LTE", "Wi-Fi 6", "Bluetooth 5.2"],
+      "dimensions": {
+        "height": "248.6 mm",
+        "width": "179.5 mm",
+        "depth": "7.0 mm"
+      },
+      "weight": "477 g",
+      "sim": [
+        "nano-SIM and eSIM (Wi-Fi + Cellular models)",
+        "No SIM (Wi-Fi only model)"
+      ]
+    }
+  },
+  {
+    "model": "iPad (10th generation)",
+    "release_date": "2022-10-26",
+    "colors": ["Silver", "Blue", "Pink", "Yellow"],
+    "storage_options": ["64 GB", "256 GB"],
+    "storage_prices": {
+      "64 GB": "39,900",
+      "256 GB": "54,900"
+    },
+    "description": "The iPad (10th generation) brings a refreshed all-screen design with a 10.9-inch Liquid Retina display, powered by the A14 Bionic chip. It supports the Magic Keyboard Folio and features USB-C connectivity.",
+    "specifications": {
+      "display": {
+        "size": "10.9 inches",
+        "type": "Liquid Retina IPS LCD",
+        "resolution": "2360 x 1640 pixels",
+        "brightness": {
+          "typical": "500 nits"
+        }
+      },
+      "processor": "Apple A14 Bionic",
+      "memory": "4 GB LPDDR4X",
+      "storage": ["64 GB", "256 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (up to 20W fast charging)"
+        }
+      },
+      "camera": {
+        "rear": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.8",
+          "lens": "wide"
+        },
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "ultrawide (landscape orientation)",
+          "field_of_view": "122°"
+        }
+      },
+      "operating_system": "iPadOS 16 (upgradable)",
+      "connectivity": ["Wi-Fi 6", "5G (cellular model)", "Bluetooth 5.2"],
+      "dimensions": {
+        "height": "248.6 mm",
+        "width": "179.5 mm",
+        "depth": "7 mm"
+      },
+      "weight": "477 g (Wi-Fi) / 481 g (Wi-Fi + Cellular)",
+      "sim": ["eSIM", "nano-SIM (for Wi-Fi + Cellular models)"]
+    }
+  },
+  {
+    "model": "iPad (9th generation)",
+    "release_date": "2021-09-24",
+    "colors": ["Silver", "Space Gray"],
+    "storage_options": ["64 GB", "256 GB"],
+    "storage_prices": {
+      "64 GB": "33,900",
+      "256 GB": "48,900"
+    },
+    "description": "The iPad (9th generation) features a 10.2-inch Retina display, powered by the A13 Bionic chip. It supports Apple Pencil (1st generation) and Smart Keyboard, making it a versatile and affordable device for learning, working, and entertainment.",
+    "specifications": {
+      "display": {
+        "size": "10.2 inches",
+        "type": "Retina IPS LCD",
+        "resolution": "2160 x 1620 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "500 nits"
+        }
+      },
+      "processor": "Apple A13 Bionic",
+      "memory": "3 GB LPDDR4X",
+      "storage": ["64 GB", "256 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "Lightning (up to 20W charging)"
+        }
+      },
+      "camera": {
+        "rear": {
+          "megapixels": "8 MP",
+          "aperture": "f/2.4",
+          "lens": "31mm (wide)"
+        },
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "ultrawide",
+          "features": ["Center Stage"]
+        }
+      },
+      "operating_system": "iPadOS 15 (upgradable to latest)",
+      "connectivity": ["2G", "3G", "4G LTE", "Wi-Fi", "Bluetooth 4.2"],
+      "dimensions": {
+        "height": "250.6 mm",
+        "width": "174.1 mm",
+        "depth": "7.5 mm"
+      },
+      "weight": "487 g (Wi-Fi) / 498 g (Wi-Fi + Cellular)",
+      "sim": ["nano-SIM and eSIM (Cellular model only)"]
+    }
+  },
+
+  {
+    "model": "iPad Air (7th generation)",
+    "release_date": "2024-05-15",
+    "colors": ["Blue", "Purple", "Starlight", "Space Gray"],
+    "storage_options": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "storage_prices": {
+      "128 GB": "59,900",
+      "256 GB": "69,900",
+      "512 GB": "89,900",
+      "1 TB": "1,09,900"
+    },
+    "description": "The iPad Air (7th generation) features the powerful M2 chip, available in two sizes — 11-inch and 13-inch. It offers incredible performance for creative and productivity tasks with a stunning Liquid Retina display, advanced cameras, and full Apple Pencil Pro support.",
+    "specifications": {
+      "display": {
+        "size": "11 or 13 inches",
+        "type": "Liquid Retina IPS LCD",
+        "resolution": {
+          "11": "2360 x 1640 pixels",
+          "13": "2732 x 2048 pixels"
+        },
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "500 nits"
+        }
+      },
+      "processor": "Apple M2 chip with 8-core CPU and 10-core GPU",
+      "memory": "8 GB unified memory",
+      "storage": ["128 GB", "256 GB", "512 GB", "1 TB"],
+      "battery": {
+        "type": "Li-polymer",
+        "charging": {
+          "wired": "USB-C (up to 35W fast charging)",
+          "wireless": "Not supported"
+        }
+      },
+      "camera": {
+        "rear": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.8",
+          "lens": "wide"
+        },
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "ultrawide",
+          "features": ["Center Stage"]
+        }
+      },
+      "operating_system": "iPadOS 17",
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "5G (cellular models)"],
+      "dimensions": {
+        "11-inch": {
+          "height": "247.6 mm",
+          "width": "178.5 mm",
+          "depth": "6.1 mm",
+          "weight": "462 g (Wi-Fi), 468 g (Wi-Fi + Cellular)"
+        },
+        "13-inch": {
+          "height": "280.6 mm",
+          "width": "214.9 mm",
+          "depth": "6.1 mm",
+          "weight": "617 g (Wi-Fi), 622 g (Wi-Fi + Cellular)"
+        }
+      },
+      "sim": ["eSIM (cellular models only)"]
+    }
+  },
+  {
+    "model": "iPad Air (6th generation)",
+    "release_date": "2024-05-07",
+    "colors": ["Space Gray", "Starlight", "Blue", "Purple"],
+    "storage_options": ["128 GB", "256 GB", "512 GB", "1 TB"],
+    "storage_prices": {
+      "128 GB": "59,900",
+      "256 GB": "69,900",
+      "512 GB": "89,900",
+      "1 TB": "109,900"
+    },
+    "description": "The iPad Air (6th generation) features a stunning 11-inch or 13-inch Liquid Retina display, powered by the Apple M2 chip, bringing Pro-level performance to the Air lineup. It supports Apple Pencil Pro and Magic Keyboard.",
+    "specifications": {
+      "display": {
+        "size": "11 inches or 13 inches",
+        "type": "Liquid Retina IPS LCD",
+        "resolution": "2360 x 1640 (11-inch) / 2732 x 2048 (13-inch)",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "500 nits"
+        }
+      },
+      "processor": "Apple M2 chip",
+      "memory": "8 GB Unified Memory",
+      "storage": ["128 GB", "256 GB", "512 GB", "1 TB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (up to 35W fast charging)",
+          "wireless": []
+        }
+      },
+      "camera": {
+        "rear": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.8",
+          "lens": "Wide"
+        },
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "Ultrawide (Landscape orientation)"
+        }
+      },
+      "operating_system": "iPadOS 17",
+      "connectivity": ["Wi-Fi 6E", "5G (Cellular models)", "Bluetooth 5.3"],
+      "dimensions": {
+        "height": "247.6 mm (11-inch) / 280.6 mm (13-inch)",
+        "width": "178.5 mm (11-inch) / 214.9 mm (13-inch)",
+        "depth": "6.1 mm"
+      },
+      "weight": "462 g (11-inch Wi-Fi model) / 617 g (13-inch Cellular model)",
+      "sim": ["eSIM (Cellular models only)"]
+    }
+  },
+  {
+    "model": "iPad Air (5th generation)",
+    "release_date": "2022-03-18",
+    "colors": ["Space Gray", "Starlight", "Pink", "Purple", "Blue"],
+    "storage_options": ["64 GB", "256 GB"],
+    "storage_prices": {
+      "64 GB": "59,900",
+      "256 GB": "74,900"
+    },
+    "description": "The iPad Air (5th generation) features a 10.9-inch Liquid Retina display and is powered by the Apple M1 chip, offering powerful performance and sleek design, ideal for productivity and creativity.",
+    "specifications": {
+      "display": {
+        "size": "10.9 inches",
+        "type": "Liquid Retina IPS LCD",
+        "resolution": "2360 x 1640 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "500 nits"
+        }
+      },
+      "processor": "Apple M1 chip",
+      "memory": "8 GB Unified Memory",
+      "storage": ["64 GB", "256 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (20W fast charging supported)",
+          "wireless": []
+        }
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/1.8",
+            "lens": "Wide"
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "Ultra Wide (Center Stage)"
+        }
+      },
+      "operating_system": "iPadOS 15 (upgradable)",
+      "connectivity": [
+        "2G",
+        "3G",
+        "4G LTE",
+        "5G NR (Cellular model only)",
+        "Wi‑Fi 6"
+      ],
+      "dimensions": {
+        "height": "247.6 mm",
+        "width": "178.5 mm",
+        "depth": "6.1 mm"
+      },
+      "weight": "461 g (Wi-Fi) / 462 g (Wi-Fi + Cellular)",
+      "sim": ["nano-SIM and eSIM (Cellular model)"]
+    }
+  },
+
+  {
+    "model": "iPad Mini (7th generation)",
+    "release_date": "2025-10-01",
+    "colors": ["Space Gray", "Starlight", "Purple", "Pink"],
+    "storage_options": ["64 GB", "128 GB", "256 GB"],
+    "storage_prices": {
+      "64 GB": "59,900",
+      "128 GB": "64,900",
+      "256 GB": "74,900"
+    },
+    "description": "The iPad Mini (7th generation) builds upon its compact predecessor with a faster chip, better cameras, and continued support for the Apple Pencil (2nd generation), all in a sleek, portable form.",
+    "specifications": {
+      "display": {
+        "size": "8.3 inches",
+        "type": "Liquid Retina IPS LCD",
+        "resolution": "2266 x 1488 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "500 nits"
+        }
+      },
+      "processor": "Apple A17 Pro",
+      "memory": "6 GB LPDDR5",
+      "storage": ["64 GB", "128 GB", "256 GB"],
+      "battery": {
+        "type": "Li-polymer",
+        "charging": {
+          "wired": "USB-C (20W fast charging)",
+          "wireless": []
+        }
+      },
+      "camera": {
+        "rear": {
+          "megapixels": "12 MP",
+          "aperture": "f/1.8",
+          "lens": "26mm (wide)"
+        },
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "ultrawide",
+          "feature": "Center Stage"
+        }
+      },
+      "operating_system": "iPadOS 18",
+      "connectivity": [
+        "2G",
+        "3G",
+        "4G LTE",
+        "5G NR",
+        "Wi-Fi 6E",
+        "Bluetooth 5.3"
+      ],
+      "dimensions": {
+        "height": "195.4 mm",
+        "width": "134.8 mm",
+        "depth": "6.3 mm"
+      },
+      "weight": "297 g (Wi-Fi)",
+      "sim": ["nano-SIM and eSIM"]
+    }
+  },
+  {
+    "model": "iPad Mini (6th generation)",
+    "release_date": "2021-09-24",
+    "colors": ["Space Gray", "Pink", "Purple", "Starlight"],
+    "storage_options": ["64 GB", "256 GB"],
+    "storage_prices": {
+      "64 GB": "49,900",
+      "256 GB": "64,900"
+    },
+    "description": "The iPad Mini (6th generation) features a compact 8.3-inch Liquid Retina display, powered by the A15 Bionic chip. It supports Apple Pencil (2nd generation) and offers portability with powerful performance.",
+    "specifications": {
+      "display": {
+        "size": "8.3 inches",
+        "type": "Liquid Retina IPS LCD",
+        "resolution": "2266 x 1488 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "500 nits",
+          "peak": "500 nits"
+        }
+      },
+      "processor": "Apple A15 Bionic",
+      "memory": "4 GB LPDDR4X",
+      "storage": ["64 GB", "256 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "USB-C (20W fast charging)",
+          "wireless": "Not supported"
+        }
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/1.8",
+            "lens": "wide"
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "ultrawide (Center Stage)"
+        }
+      },
+      "operating_system": "iPadOS 15 (upgradable)",
+      "connectivity": ["2G", "3G", "4G LTE", "5G NR (cellular model)"],
+      "dimensions": {
+        "height": "195.4 mm",
+        "width": "134.8 mm",
+        "depth": "6.3 mm"
+      },
+      "weight": "293 g (Wi-Fi), 297 g (Wi-Fi + Cellular)",
+      "sim": ["nano-SIM and eSIM (cellular model only)", "No SIM (Wi-Fi model)"]
+    }
+  },
+  {
+    "model": "iPad Mini (5th generation)",
+    "release_date": "2019-03-18",
+    "colors": ["Space Gray", "Silver", "Gold"],
+    "storage_options": ["64 GB", "256 GB"],
+    "storage_prices": {
+      "64 GB": "34,900",
+      "256 GB": "44,900"
+    },
+    "description": "The iPad Mini (5th generation) offers a compact 7.9-inch Retina display with True Tone, powered by the A12 Bionic chip for powerful performance in a portable size. It supports the first-generation Apple Pencil and is ideal for reading, drawing, and quick productivity tasks.",
+    "specifications": {
+      "display": {
+        "size": "7.9 inches",
+        "type": "Retina IPS LCD",
+        "resolution": "2048 x 1536 pixels",
+        "refresh_rate": "60Hz",
+        "brightness": {
+          "typical": "500 nits",
+          "peak": "500 nits"
+        }
+      },
+      "processor": "Apple A12 Bionic",
+      "memory": "3 GB LPDDR4X",
+      "storage": ["64 GB", "256 GB"],
+      "battery": {
+        "type": "Li-ion",
+        "charging": {
+          "wired": "Lightning connector (10W adapter)",
+          "wireless": []
+        }
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "8 MP",
+            "aperture": "f/2.4",
+            "lens": "32mm (standard)"
+          }
+        ],
+        "front": {
+          "megapixels": "7 MP",
+          "aperture": "f/2.2",
+          "lens": "standard"
+        }
+      },
+      "operating_system": "Initially iOS 12, upgradable to iPadOS 17",
+      "connectivity": ["2G", "3G", "4G LTE", "Wi‑Fi"],
+      "dimensions": {
+        "height": "203.2 mm",
+        "width": "134.8 mm",
+        "depth": "6.1 mm"
+      },
+      "weight": "300.5 g (Wi-Fi), 308.2 g (Wi-Fi + Cellular)",
+      "sim": ["nano-SIM and eSIM (Wi-Fi + Cellular model only)"]
+    }
+  },
+
+  {
+    "model": "iPad Pro (7th generation)",
+    "release_date": "2023-10-26",
+    "colors": ["Silver", "Space Gray"],
+    "storage_options": ["128 GB", "256 GB", "512 GB", "1 TB", "2 TB"],
+    "storage_prices": {
+      "128 GB": "₹84,900",
+      "256 GB": "₹94,900",
+      "512 GB": "₹1,14,900",
+      "1 TB": "₹1,54,900",
+      "2 TB": "₹1,94,900"
+    },
+    "description": "The iPad Pro 7th generation features a 12.9-inch Liquid Retina XDR display, powered by the Apple M2 chip, delivering desktop-class performance and exceptional graphics, perfect for professionals and creatives.",
+    "specifications": {
+      "display": {
+        "size": "12.9 inches",
+        "type": "Liquid Retina XDR",
+        "resolution": "2732 x 2048 pixels",
+        "refresh_rate": "120Hz ProMotion",
+        "brightness": {
+          "typical": "1000 nits",
+          "peak": "1600 nits (HDR)"
+        }
+      },
+      "processor": "Apple M2 chip",
+      "memory": "8 GB or 16 GB unified RAM",
+      "storage": ["128 GB", "256 GB", "512 GB", "1 TB", "2 TB"],
+      "battery": {
+        "type": "Li-polymer",
+        "charging": {
+          "wired": "USB-C with Thunderbolt 4 support",
+          "wireless": []
+        }
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/1.8",
+            "lens": "Wide"
+          },
+          {
+            "megapixels": "10 MP",
+            "aperture": "f/2.4",
+            "lens": "Ultra Wide"
+          },
+          {
+            "megapixels": "LiDAR Scanner",
+            "aperture": null,
+            "lens": null
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "Ultra Wide"
+        }
+      },
+      "operating_system": "iPadOS 17",
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "5G (cellular models)"],
+      "dimensions": {
+        "height": "280.6 mm",
+        "width": "214.9 mm",
+        "depth": "6.4 mm"
+      },
+      "weight": {
+        "Wi-Fi model": "682 g",
+        "Wi-Fi + Cellular model": "685 g"
+      },
+      "sim": ["nano-SIM and eSIM (cellular models)"]
+    }
+  },
+  {
+    "model": "iPad Pro (6th generation)",
+    "release_date": "2022-10-26",
+    "colors": ["Space Gray", "Silver"],
+    "storage_options": ["128 GB", "256 GB", "512 GB", "1 TB", "2 TB"],
+    "storage_prices": {
+      "128 GB": "₹89,900",
+      "256 GB": "₹99,900",
+      "512 GB": "₹1,19,900",
+      "1 TB": "₹1,59,900",
+      "2 TB": "₹1,99,900"
+    },
+    "description": "The iPad Pro (6th generation) features a stunning 12.9-inch Liquid Retina XDR mini-LED display, powered by the Apple M2 chip, delivering breakthrough performance and advanced capabilities for creative professionals and power users.",
+    "specifications": {
+      "display": {
+        "size": "12.9 inches",
+        "type": "Liquid Retina XDR mini-LED",
+        "resolution": "2732 x 2048 pixels",
+        "refresh_rate": "120Hz ProMotion",
+        "brightness": {
+          "typical": "1000 nits",
+          "peak": "1600 nits (HDR)"
+        }
+      },
+      "processor": "Apple M2 chip",
+      "memory": "8 GB or 16 GB unified RAM (depending on storage option)",
+      "storage": ["128 GB", "256 GB", "512 GB", "1 TB", "2 TB"],
+      "battery": {
+        "type": "Li-polymer",
+        "capacity": "40.88 Wh",
+        "charging": {
+          "wired": "USB-C with Thunderbolt / USB 4",
+          "wireless": "Not supported"
+        }
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/1.8",
+            "lens": "Wide"
+          },
+          {
+            "megapixels": "10 MP",
+            "aperture": "f/2.4",
+            "lens": "Ultra Wide"
+          },
+          {
+            "type": "LiDAR Scanner"
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "Ultra Wide",
+          "features": ["Center Stage"]
+        }
+      },
+      "operating_system": "iPadOS 16",
+      "connectivity": ["Wi-Fi 6E", "5G (on cellular models)"],
+      "dimensions": {
+        "height": "280.6 mm",
+        "width": "214.9 mm",
+        "depth": "6.4 mm"
+      },
+      "weight": {
+        "Wi-Fi model": "682 g",
+        "Wi-Fi + Cellular model": "685 g"
+      },
+      "sim": ["Nano-SIM and eSIM (cellular models only)"]
+    }
+  },
+  {
+    "model": "iPad Pro (5th generation)",
+    "release_date": "2021-05-21",
+    "colors": ["Silver", "Space Gray"],
+    "storage_options": ["128 GB", "256 GB", "512 GB", "1 TB", "2 TB"],
+    "storage_prices": {
+      "128 GB": "₹71,900",
+      "256 GB": "₹81,900",
+      "512 GB": "₹101,900",
+      "1 TB": "₹131,900",
+      "2 TB": "₹171,900"
+    },
+    "description": "The iPad Pro (5th generation) features the Apple M1 chip, offering exceptional performance and power efficiency, with a Liquid Retina XDR display on the 12.9-inch model, perfect for creative professionals and power users.",
+    "specifications": {
+      "display": {
+        "size": "11 inches / 12.9 inches",
+        "type": "Liquid Retina (11-inch) / Liquid Retina XDR (12.9-inch)",
+        "resolution": "2388 x 1668 pixels (11-inch) / 2732 x 2048 pixels (12.9-inch)",
+        "refresh_rate": "120Hz ProMotion",
+        "brightness": {
+          "typical": "600 nits (11-inch) / 1000 nits (12.9-inch)",
+          "peak": "1600 nits (HDR, 12.9-inch)"
+        }
+      },
+      "processor": "Apple M1",
+      "memory": "8 GB or 16 GB RAM (depending on storage)",
+      "storage": ["128 GB", "256 GB", "512 GB", "1 TB", "2 TB"],
+      "battery": {
+        "type": "Li-polymer",
+        "charging": {
+          "wired": "USB-C (supports Thunderbolt / USB 4)",
+          "wireless": []
+        }
+      },
+      "camera": {
+        "rear": [
+          {
+            "megapixels": "12 MP",
+            "aperture": "f/1.8",
+            "lens": "wide"
+          },
+          {
+            "megapixels": "10 MP",
+            "aperture": "f/2.4",
+            "lens": "ultrawide"
+          }
+        ],
+        "front": {
+          "megapixels": "12 MP",
+          "aperture": "f/2.4",
+          "lens": "ultrawide (with Center Stage)"
+        }
+      },
+      "operating_system": "iPadOS 15 (upgradable)",
+      "connectivity": ["Wi-Fi 6", "5G (on cellular models)", "Bluetooth 5.0"],
+      "dimensions": {
+        "height": "280.6 mm (11-inch) / 280.6 mm (12.9-inch)",
+        "width": "214.9 mm (11-inch) / 214.9 mm (12.9-inch)",
+        "depth": "5.9 mm"
+      },
+      "weight": "466 g (11-inch Wi-Fi) / 682 g (12.9-inch Wi-Fi)",
+      "sim": ["nano-SIM and eSIM (cellular models only)"]
+    }
+  }
+]
